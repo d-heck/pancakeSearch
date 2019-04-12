@@ -1,5 +1,4 @@
 ## @ Author: David Heck (dheck@udel.edu)
-#  CISC481 Artificial Intelligence Homework 2
 #  This code demonstrates several algorithms to solve the Pancake Sorting Problem.
 
 import copy # Used for deep copy
